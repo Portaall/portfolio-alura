@@ -5,9 +5,11 @@ Olá, bem vindo ao meu pequeno projeto que fiz ao completar o curso de HTML e CS
 ## Ferramentas utilizadas:
 
 *HTML
+
 *CSS
+
 *Flex-box
 
-##Feito por:
+## Feito por:
 
-###Luiz Antônio
+### Luiz Antônio
